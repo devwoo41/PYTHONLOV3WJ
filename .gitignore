@@ -33,3 +33,4 @@ uv.lock
 .DS_Store
 Thumbs.db
 *.swp
+Jump2Python/02_ControlStatement/while.ipynb
